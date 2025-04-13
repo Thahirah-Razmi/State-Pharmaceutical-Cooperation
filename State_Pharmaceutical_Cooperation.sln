@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State_Pharmaceutical_Cooperation", "State_Pharmaceutical_Cooperation.csproj", "{67B33616-E2D9-494A-82A6-2DD6618E0A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State_Pharmaceutical_Cooperation_Client", "State_Pharmaceutical_Cooperation_Client\State_Pharmaceutical_Cooperation_Client.csproj", "{4D96EA4D-F07A-47C7-8EB1-A5CC5BFC50F4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{67B33616-E2D9-494A-82A6-2DD6618E0A14} = {67B33616-E2D9-494A-82A6-2DD6618E0A14}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B33616-E2D9-494A-82A6-2DD6618E0A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B33616-E2D9-494A-82A6-2DD6618E0A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B33616-E2D9-494A-82A6-2DD6618E0A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B33616-E2D9-494A-82A6-2DD6618E0A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D96EA4D-F07A-47C7-8EB1-A5CC5BFC50F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D96EA4D-F07A-47C7-8EB1-A5CC5BFC50F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D96EA4D-F07A-47C7-8EB1-A5CC5BFC50F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D96EA4D-F07A-47C7-8EB1-A5CC5BFC50F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB257A39-4F3A-42DA-A38E-59E71C7E926F}
+	EndGlobalSection
+EndGlobal
