@@ -38,17 +38,19 @@ Developed using **.NET technologies** for the API services and supporting client
 
 ## 🛠️ Technical Stack  
 - **Platform**: Service-Oriented Architecture (SOA)  
-- **Language**: C# (for API development)  
+- **Language**: C# (for API development)
+- **Frontend**: CSS
 - **IDE**: Visual Studio  
 - **Framework**: .NET 6 (API Services)  
 - **Authentication**: Secure authentication for suppliers and pharmacies  
 - **Database**: SQL Server Management Studio
 - **Web Technologies**: ASP.NET Core (for web services)  
-- **Client Applications**: .NET 
+- **Client Applications**: ASP.NET 
 
 ---
 
 ## 📸 Visual Previews  
+
 
 
 ---
