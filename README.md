@@ -60,12 +60,46 @@ Developed using **.NET technologies** for the API services and supporting client
 ![image](https://github.com/user-attachments/assets/9d7ebce0-71df-4856-819f-b20cfaea4472)
 
 3. **Dashboard**
+
 - Warehouse Staff
 
+![image](https://github.com/user-attachments/assets/a07792c5-c752-47d5-93ee-938ee2918e9c)
 
+- Manufacturing Plants
 
+![image](https://github.com/user-attachments/assets/5c309c74-3744-4fcb-af31-25dd060d7cbc)
 
+- Pharmacy
 
+![image](https://github.com/user-attachments/assets/e91d9fae-dcec-4559-95e9-f7162950ce8b)
+
+4. **View Drugs**
+
+![image](https://github.com/user-attachments/assets/8b9d8455-c3de-4d5d-8940-17c11db962ad)
+
+5. **Add Drugs**
+
+![image](https://github.com/user-attachments/assets/691a0c2b-bca1-4ae7-ad78-adebab534add)
+
+6. **Update Stock**
+
+![image](https://github.com/user-attachments/assets/bcef259b-4167-49a9-b0ae-e16c021d8b55)
+
+7. **Check Stock**
+
+![image](https://github.com/user-attachments/assets/f9b69a00-809a-443a-a26e-a3fbd3deacfc)
+
+8. **Search for a Drug**
+
+![image](https://github.com/user-attachments/assets/da9a89cf-2943-42c8-aabc-96de72c3af11)
+
+9. **Place Order**
+
+![image](https://github.com/user-attachments/assets/bcf9aaba-0fb6-460f-93b9-1f7f89db69da)
+
+10. **View Order**
+
+![image](https://github.com/user-attachments/assets/ad815b29-c97b-44bb-89fb-a5bd177a31d1)
 
 ---
 
