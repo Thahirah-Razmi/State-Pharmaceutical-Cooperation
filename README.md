@@ -60,7 +60,7 @@ Developed using **.NET technologies** for the API services and supporting client
 ![image](https://github.com/user-attachments/assets/9d7ebce0-71df-4856-819f-b20cfaea4472)
 
 3. **Dashboard**
--Warehouse Staff
+- Warehouse Staff
 
 
 
