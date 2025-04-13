@@ -51,6 +51,20 @@ Developed using **.NET technologies** for the API services and supporting client
 
 ## 📸 Visual Previews  
 
+1. **Register**  
+
+![image](https://github.com/user-attachments/assets/3cb0b6e4-d7bf-4fe4-93e7-8583a2a8d2cb)
+
+2. **Login**
+
+![image](https://github.com/user-attachments/assets/9d7ebce0-71df-4856-819f-b20cfaea4472)
+
+3. **Dashboard**
+-Warehouse Staff
+
+
+
+
 
 
 ---
